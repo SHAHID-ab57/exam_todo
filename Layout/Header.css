@@ -1,0 +1,11 @@
+*{
+    margin: 0;
+}
+.link_style{
+    color :aliceblue;
+    text-decoration: none;
+}
+.link_style:hover{
+    color : rgb(214, 227, 143);
+    text-decoration: underline;
+}
